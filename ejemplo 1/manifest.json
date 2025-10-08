@@ -1,31 +1,45 @@
 {
-  "name": "Mi primera PWA",
-  "short_name": "PWA",
-  "start_url": "/PWA-Ejemplo/index.html",
-  "scope": "/PWA-Ejemplo/",
-  "display": "standalone",
-  "background_color": "#1976d2",
-  "theme_color": "#1976d2",
-  "icons": [
-    {
-      "src": "/PWA-Ejemplo/icons/icon_962x96.png",
-      "sizes": "962x96",
-      "type": "image/png"
-    },
-    {
-      "src": "/PWA-Ejemplo/icons/icon_180x180.png",
-      "sizes": "180x180",
-      "type": "image/png"
-    },
-    {
-      "src": "/PWA-Ejemplo/icons/icon_192x192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "/PWA-Ejemplo/icons/icon_512x512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
+    "name":"Mi primer PWA",
+    "short_name":"MIPWA",
+    "start_url":"/PWA-Ejemplo/index.html",
+    "scope":"/PWA-Ejemplo/",
+    "display":"standalone",
+    "backgroundcolor": "#fffff",
+    "thema_color":"#2312231",
+    "orientation":"portrait",
+    "iconos":[
+
+        {
+
+            "src":"/PWA-Ejemplo/icons/icon-96x96.png",
+            "sizes":"96x96.png",
+            "type":"image/png"
+
+        },
+        {
+            
+            "src":"/PWA-Ejemplo/cons/icon-180x180.png",
+            "sizes":"180x180.png",
+            "type":"image/png"
+
+        },
+        {
+            
+            "src":"/PWA-Ejemplo/icons/icon-192x192.png",
+            "sizes":"192x192.png",
+            "type":"image/png"
+
+        },
+
+
+        {
+            
+            "src":"/PWA-Ejemplo/icons/icon-512x512.png",
+            "sizes":"512x512.png",
+            "type":"image/png"
+
+        }
+    ]
+
+
 }
